@@ -3,8 +3,8 @@ Collage Time Table Generator for Teachers and View for Students
 
 Built Using Tkinter python library
 
+#### Check : [Latest Release](https://github.com/Himanshu-369/CollageTimeTableGenerator/releases/latest)
 
----
 
 ## Screenshot :
 ### Dashboard Tab :
@@ -37,8 +37,13 @@ Built Using Tkinter python library
 ---
 
 ## Changes to implement:
-- Option to Modify/Delete the Data
-- Able to change the Theme Dark/Light
-- Add More Features
-- Implement the Students Side to View and Manage the current class Time-tables
-- Add local * ollama-based * features for Students to get Daily Summary of Lectures/Classes.
+- [ ] Option to Modify/Delete the Data
+- [ ] Able to change the Theme Dark/Light
+- [ ] Add More Features
+- [ ] Implement the Students Side to View and Manage the current class Time-tables
+- [ ] Add local **ollama-based** features for Students to get Daily Summary of Lectures/Classes.
+- [ ] Use **pyqt6** for more professional GUI. 
+
+---
+
+## Check the [Releases page](https://github.com/Himanshu-369/CollageTimeTableGenerator/releases) for [Latest](https://github.com/Himanshu-369/CollageTimeTableGenerator/releases/latest) implementations :
